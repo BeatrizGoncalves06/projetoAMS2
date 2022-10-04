@@ -1,8 +1,8 @@
 <?php
-    $N1 = $_POST['n1'];
-    $N2 = $_POST['n2'];
+    $N1 = $_POST['N1'];
+    $N2 = $_POST['N3'];
     
-    $resultado = $N1 + $N2;
+    $resultado = $n1 + $n3;
     if( $resultado >20){
       
         echo "A Soma é : " . $resultado + 8;
